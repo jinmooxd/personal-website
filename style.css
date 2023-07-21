@@ -365,6 +365,11 @@ form .btn2{
     margin-top: 20px;
 }
 
+.dp {
+    width: 570px; /* Set the desired width */
+    height: auto; /* Maintain aspect ratio */
+  }
+
 
 /* Responsiveness */
 
